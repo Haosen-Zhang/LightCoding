@@ -51,6 +51,6 @@ Get rich, consistent highlighting across supported file types.
 ## 💻 Getting Started
 
 ```bash
-git clone https://github.com/Whethe/LightCoding.git
+git clone https://github.com/Whethe/LightCoding.git](https://github.com/Haosen-Zhang/LightCoding.git
 cd LightCoding
 # Follow the build/run instructions specific to your environment
