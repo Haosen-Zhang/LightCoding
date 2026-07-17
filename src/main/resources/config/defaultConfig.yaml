@@ -1,10 +1,22 @@
-Window:
+window:
   theme: Darcula
-  color: DARK_GRAY
-  height: 600
+  height: 700
   width: 1200
 
-Body:
-  fontSize: 18
-  fontStyle: 仿宋
+editor:
+  fontSize: 16
+  fontFamily: Monospaced
   theme: monokai
+  tabSize: 4
+  wordWrap: false
+  lineNumbers: true
+  codeFolding: true
+  markOccurrences: true
+  marginLinePosition: 100
+
+sidebar:
+  visible: false
+  width: 250
+
+lastOpenedFolder: ""
+recentFiles: []
